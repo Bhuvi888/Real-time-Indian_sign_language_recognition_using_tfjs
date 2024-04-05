@@ -69,7 +69,7 @@ export const i18n = createI18n({
       
       en: 'English',
       settings: 'Adjust the prediction interval of the camera',
-      developed: 'Developed by Asial Corporation',
+      developed: 'Developed by us',
       version: 'App Version: 1.0.0',
     },
   },
